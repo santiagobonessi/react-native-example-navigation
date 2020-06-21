@@ -1,4 +1,4 @@
-# User - Posts - Detail React Native App
+# | User - Posts - Detail | React Native App
 React Native project using navigator and fetch.
 
 # Dependences
